@@ -22,20 +22,3 @@ plt.scatter(sepal_length, sepal_width, c = iris.target)
 plt.xlabel(sepal_length_label)
 plt.ylabel(sepal_width_label)
 plt.show()
-
-
-#############
-# Initialize lists
-setosa_sepal_length = []
-setosa_sepal_width = []
-setosa_petal_length = []
-setosa_petal_width = []
-versicolor_sepal_length = []
-versicolor_sepal_width = []
-versicolor_petal_length = []
-versicolor_petal_width = []
-virginica_sepal_length = []
-virginica_sepal_width = []
-virginica_petal_length = []
-virginica_petal_width = []
-# put data into each list
